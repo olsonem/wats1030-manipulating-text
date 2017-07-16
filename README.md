@@ -119,5 +119,10 @@ your text.)
 ## Stretch Goals
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
-* Explore the Emacs file browser mode. Describe how it works here.
+* How do you turn on line numbering in Vi? Emacs? To Turn on line numbering in Vi ": set number", then enter. 
+	 To turn on line numbering in Emacs, use M(meta)-x and then type in "linum-mode" then enter.  
+* Explore the Emacs file browser mode. The Emacs file broswer mode is accessed with C-x d.  You
+can then navigat using the up and down arrows to navigat the files in the tree.  You can use the
+up and down arrows to navigate levels and the right and left to move between sub directories.
+
+

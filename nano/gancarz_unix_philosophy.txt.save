@@ -4,7 +4,7 @@ In 1994, Mike Gancarz (a member of the team that designed the X Window System), 
 1. Small is beautiful.
 2. Make each program do one thing well.
 3. Build a prototype as soon as possible.
-4. Choose portability over efficiency.
+4. Choose portability over effishingly.
 5. Store data in flat text files.
 6. Use software leverage to your advantage.
 7. Use shell scripts to increase leverage and portability.
